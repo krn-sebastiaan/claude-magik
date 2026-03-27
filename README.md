@@ -24,7 +24,7 @@ The skill gives Claude deep knowledge of Magik: syntax, naming conventions, coll
 
 ```bash
 # Clone this repo (or your fork)
-git clone https://github.com/robin-putters/claude-skills.git
+git clone https://github.com/krn-robin/claude-magik.git
 
 # Copy the skill into Claude's user skills directory
 cp -r claude-skills/skills/magik ~/.claude/skills/magik
