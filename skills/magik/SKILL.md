@@ -753,7 +753,7 @@ result << my_obj.get_collection().elements().size
 
 ### Loading Code Dynamically
 ```magik
-magik_rep.load_chunck(some_string.read_stream())
+magik_rep.load_chunk(some_string.read_stream())
 ```
 
 ---
